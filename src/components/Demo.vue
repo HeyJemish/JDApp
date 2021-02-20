@@ -10,7 +10,6 @@
 
 
 <script>
-import func from '../../vue-temp/vue-editor-bridge';
 export default {
     name: 'Demo',
     props: ['users'],
@@ -19,14 +18,17 @@ export default {
             this.$emit("custEvent",["ABC","PQR","XYZ"])
         }
     },
-    created:function(){
-        console.log("Created")
-    },
     beforeCreate:function(){
         console.log("Before Create")
     },
+    created:function(){
+        console.log("Created")
+    },
     beforeMount:function(){
         console.log("Before Mount")
+    },
+    mounted:function(){
+        console.log("Mounted")
     }
 }
 </script>
