@@ -4,12 +4,12 @@ import Calc from '../views/Calc.vue'
 
 const routes = [
   {
-    path: '/',
+    path: '/Home',
     name: 'Home',
     component: Home
   },
   {
-    path: '/Calc',
+    path: '/',
     name: 'Calc',
     component: Calc
   },
