@@ -1,6 +1,3 @@
-Here's a basic README template for your Vue.js 3 + Bootstrap calculator app:
-
-```markdown
 # Vue.js Calculator App
 
 A simple calculator app built with Vue.js 3 and styled using Bootstrap 5. This app allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
