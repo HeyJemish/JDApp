@@ -16,7 +16,7 @@ A simple calculator app built with Vue.js 3 and styled using Bootstrap 5. This a
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone vue3-calc
+   git clone https://github.com/jemysh007/JDApp.git
    ```
 
 2. Navigate to the project directory:
