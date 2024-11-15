@@ -1,6 +1,6 @@
 # Vue.js Calculator App
 
-A simple calculator app built with Vue.js 3 and styled using Bootstrap 5. This app allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+A simple calculator app built with Vue.js 3 and styled using Bootstrap 4.6. This app allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ## Features
 - Basic arithmetic operations: Add, Subtract, Multiply, Divide
