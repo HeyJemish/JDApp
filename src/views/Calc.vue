@@ -7,7 +7,7 @@
         </div>
       </div>
       <div class="col-md-12">
-        <div class="h2 float-right text-white">{{ anstring }} &nbsp;</div>
+        <div class="h2 float-right text-white">{{ anstring }}</div>
       </div>
       <div class="col-md-12">
         <CalcKeypad @clicked="setstring" />
